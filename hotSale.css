@@ -1,0 +1,40 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+#container{
+	width:1170px;
+	height:540px:
+
+}
+#leftShop{
+	width:370px;
+	height:540px;
+	
+    float:left;
+    margin-left:30px;
+}
+#rightShop{
+	width:770px;
+	height:540px;
+	
+	float:left;
+}
+#rightBottom
+{
+	height:256px;
+}
+#rightBottomLeft
+{
+	width:357px;
+	height:256px;
+	float:left;
+}
+#rightBottomRight
+{
+	margin-left:42px;
+	width:357px;
+	height:256px;
+	float:left;
+}
